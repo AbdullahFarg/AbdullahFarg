@@ -41,10 +41,6 @@
 	&emsp;
 	<!-- <a href="https://twitter.com/Adham_3llam" target="_blank">
 		<img src="./images/twitter.png" alt="Twitter"/>
-
- <img src="https://raw.githubusercontent.com/AbdullahFarg/AbdullahFarg/output/snake.svg" alt="Snake animation" />
-
-
 	</a>
 	&emsp; -->
 	<a href="https://www.youtube.com/@kiloeducation360" target="_blank">
@@ -53,3 +49,8 @@
 	&emsp;
 </p>
 <br>
+
+
+
+ <img src="https://raw.githubusercontent.com/AbdullahFarg/AbdullahFarg/output/snake.svg" alt="Snake animation" />
+
