@@ -10,11 +10,11 @@
 
 <!-- About Me -->
 ## About Me:
-- 🏫 I am a `Junior` at Faculty of Computers & AI at Cairo University.
-- 💻 I am a `Junior Software Engineer`.
-- 👨‍💻 I love challenges problem solving.
-- 🔭 I’m currently working on `competitive programming`.   
-<br>
+- 🎓 I am a `Computer Science & Artificial Intelligence graduate` from Cairo University.
+- 💻 I am a `Software Engineer` passionate about backend development.
+- 👨‍💻 I enjoy `problem solving` and `competitive programming`.
+- 🔭 Currently exploring `.NET technologies` and building real-world projects.
+
 
 <!-- Contact Me -->
 ## Contact Me
